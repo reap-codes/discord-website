@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #2c3e50;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 450px;
+}
+
+header {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #34495e;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-btn a{
+    color: white;
+    margin-left: 10px;
+}
+
+.text {
+    margin-top: 30px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+.section {
+    margin-bottom: 150px;
+}
+
+.ubr {
+    margin-top: 80px;
+    color: white;
+    font-size: 50px;
+}
+
+.btn-2 {
+    color: white;
+    font-size: 20px;
+}
